@@ -38,6 +38,16 @@
             "name": "Adrien",
             "age": 18,
             "id": "2b793500-dabc-11e7-96d9-3f4994e35ed5"
+        },
+        {
+            "name": "Colin",
+            "age": 22,
+            "id": "1b793500-dabc-11e7-96d9-3f4994e35ed5"
+        },
+        {
+            "name": "Soline",
+            "age": 22,
+            "id": "8a2472ca-b334-4fff-b2fd-84dfe937764d"
         }
     ],
     "loans": [
