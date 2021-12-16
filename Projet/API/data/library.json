@@ -6,16 +6,20 @@
             "id": "231ac800-da86-11e7-b11a-f1a3b541af38",
             "copies": [
                 {
-                    "submissionDate": "2016/12/06",
-                    "id": "c2da13d0-dabf-11e7-8fb4-b99f7664c177"
-                },
-                {
                     "submissionDate": "2017/12/07",
                     "id": "cbfca3b0-dabf-11e7-b993-41ea43809602"
                 },
                 {
                     "submissionDate": "2017/12/08",
                     "id": "3e35b560-dac1-11e7-92c1-a1c74e59ace4"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "f2d4f505-a716-404d-8e40-e3904fb636cb"
+                },
+                {
+                    "submissionDate": "2016/12/04",
+                    "id": "da75401d-8025-4aab-80f4-810127193c2e"
                 }
             ]
         },
@@ -30,7 +34,32 @@
             "author": "Robin Hobb",
             "publicationDate": "1995",
             "id": "90091c00-ddd8-11e7-a75e-7f7cd01ab94e",
-            "copies": []
+            "copies": [
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "8b28dfe5-f520-4436-aeb6-fb4fafbbd367"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "41b74259-814c-4860-b4b7-7d26cee93eb8"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "1c3dfdb1-fb6a-43e0-892e-992c32eeecea"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "61c45684-0fd0-4650-beac-0e179fbef303"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "7046505c-950b-4952-91b3-118692adf068"
+                },
+                {
+                    "submissionDate": "2016/12/05",
+                    "id": "58c9e116-ad3f-493b-a982-3eab740392fb"
+                }
+            ]
         }
     ],
     "users": [
@@ -45,9 +74,9 @@
             "id": "1b793500-dabc-11e7-96d9-3f4994e35ed5"
         },
         {
+            "id": "8a2472ca-b334-4fff-b2fd-84dfe937764d",
             "name": "Soline",
-            "age": 22,
-            "id": "8a2472ca-b334-4fff-b2fd-84dfe937764d"
+            "age": 21
         }
     ],
     "loans": [
