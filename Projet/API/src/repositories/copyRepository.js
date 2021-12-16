@@ -23,6 +23,17 @@ class CopyRepository {
         return this.db.getData(bookPath + '/copies');
     }
 
+    getAllCopies() {
+        const books = this.bookRepository.getAll()
+        let copies = []
+
+        books.forEach(book => {
+            copies = copies.concat(book.copies)
+        })
+
+        return copies
+    }
+
     get(bookId, copyId) {
         const copyPath = this.getIdPath(bookId, copyId);
         if (copyPath == null) {
@@ -38,8 +49,6 @@ class CopyRepository {
 
         const books = this.bookRepository.getAll();
         const indexBook = _.findIndex(books, book => book.id === idBook);
-
-        console.log(indexBook);
 
         this.db.push(`/books[${indexBook}]/copies[]`, copy);
 
