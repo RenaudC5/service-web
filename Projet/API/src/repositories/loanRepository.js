@@ -71,6 +71,12 @@ class LoanRepository {
         
     }
 
+    getUserAllLoans(userId) {
+        const loans = this.getAll()
+
+        return loans.filter(loan => loan.userId === userId)
+    }
+
     getIdPath(id) {
         const loans = this.getAll();
         const index = _.findIndex(loans, { id });

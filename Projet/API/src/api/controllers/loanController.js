@@ -7,6 +7,10 @@ class LoanController {
         const loans = this.loanRepository.getAll();
         res.json(loans);
     }
+    getUserLoans(req, res) {
+        const loans = this.loanRepository.getUserAllLoans(req.params.userId);
+        res.json(loans);
+    }
 
     create(req, res) {
         const loan = this.loanRepository.add(req.body);
