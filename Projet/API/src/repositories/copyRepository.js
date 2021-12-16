@@ -12,6 +12,11 @@ class CopyRepository {
     constructor(db, bookRepository) {
         this.db = db;
         this.bookRepository = bookRepository;
+        this.loanRepository = null;
+    }
+
+    updateLoanRepository(loanRepository) {
+        this.loanRepository = loanRepository
     }
 
     getAll(bookId) {
@@ -41,6 +46,13 @@ class CopyRepository {
         }
 
         return this.db.getData(copyPath);
+    }
+
+    getAvailableCopies(bookId) {
+        const loans = this.loanRepository.getAll()
+        const copies = this.getAll(bookId)
+
+        return copies.filter(copy => !loans.find(loan => loan.copyId === copy.id))
     }
 
     add(idBook, copy) {

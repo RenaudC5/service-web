@@ -29,6 +29,11 @@ class copyController {
         const copy = this.copyRepository.update(req.params.bookId, req.params.copyId, req.body)
         res.status(200).send(copy);
     }
+
+    getAvailableCopies(req, res) {
+        const copy = this.copyRepository.getAvailableCopies(req.params.bookId)
+        res.status(200).send(copy);
+    }
     
     delete(req, res) {
         this.copyRepository.delete(req.params.bookId, req.params.copyId);

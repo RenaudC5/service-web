@@ -27,6 +27,8 @@ const userRepository = new UserRepository(db);
 const copyRepository = new CopyRepository(db, bookRepository);
 const loanRepository = new LoanRepository(db, userRepository, copyRepository);
 
+copyRepository.updateLoanRepository(loanRepository);
+
 const bookController = new BookController(bookRepository);
 const userController = new UserController(userRepository);
 const copyController = new CopyController(copyRepository);

@@ -7,4 +7,7 @@ module.exports = function(app, copyController) {
         .get(copyController.get.bind(copyController))
         .put(copyController.update.bind(copyController))
         .delete(copyController.delete.bind(copyController));
+
+    app.route('/books/:bookId/availableCopies')
+        .get(copyController.getAvailableCopies.bind(copyController))
 }

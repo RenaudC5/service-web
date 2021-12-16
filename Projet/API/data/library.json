@@ -91,6 +91,12 @@
             "copyId": "cbfca3b0-dabf-11e7-b993-41ea43809602",
             "userId": "2b793500-dabc-11e7-96d9-3f4994e35ed5",
             "id": "8fb5cdd4-0004-4656-8d08-88b7df134d2b"
+        },
+        {
+            "loanDate": "2016/12/05",
+            "copyId": "f2d4f505-a716-404d-8e40-e3904fb636cb",
+            "userId": "2b793500-dabc-11e7-96d9-3f4994e35ed5",
+            "id": "d7361ff1-30a1-4dc9-b490-1ee2fc9fe144"
         }
     ]
 }
