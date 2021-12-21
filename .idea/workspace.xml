@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00597a1b-6fad-4ac5-a9cd-b964e8714ced" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Projet/Client/src/app/model/loan.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/API/data/library.json" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/API/data/library.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/book-list/book-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/services/loan.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/services/loan.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet/Client/src/app/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Projet/Client/src/app/services/user.service.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22C7LwwrO9HDHnvKr4jq6XeleMU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projet/API/src/repositories" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projet/API/src/repositories" />
+      <recent name="$PROJECT_DIR$/Projet/API/src/api/routes" />
+      <recent name="$PROJECT_DIR$/Projet/API/src/api/controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00597a1b-6fad-4ac5-a9cd-b964e8714ced" name="Default Changelist" comment="" />
+      <created>1639329663304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639329663304</updated>
+      <workItem from="1639329669375" duration="2557000" />
+      <workItem from="1639638729720" duration="14050000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajout de la fonctionnalité user -&gt; getAll dans le client">
+      <created>1639331398079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639331398079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implémentation des users dans l'API (getAll, getOne, post, delete &amp; update)">
+      <created>1639332431622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639332431622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implémentation des copies dans l'API (getAll, getOne, post, delete &amp; update)">
+      <created>1639642623627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639642623627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implémentation des loans dans l'API (getAll, getOne, post &amp; delete) + contraintes validité + disponibilités">
+      <created>1639646284323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639646284324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implémentation route /users/{id}/loans">
+      <created>1639646691048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639646691048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implémentation route GET /books/{id}/availableCopies">
+      <created>1639647362145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639647362145</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implémentation copies disponibles client">
+      <created>1639648675483</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639648675483</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implémentation emprunt livre client">
+      <created>1639648692413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639648692413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout de la fonctionnalité user -&gt; getAll dans le client" />
+    <MESSAGE value="implémentation des users dans l'API (getAll, getOne, post, delete &amp; update)" />
+    <MESSAGE value="implémentation des copies dans l'API (getAll, getOne, post, delete &amp; update)" />
+    <MESSAGE value="implémentation des loans dans l'API (getAll, getOne, post &amp; delete) + contraintes validité + disponibilités" />
+    <MESSAGE value="Implémentation route /users/{id}/loans" />
+    <MESSAGE value="Implémentation route GET /books/{id}/availableCopies" />
+    <MESSAGE value="Implémentation copies disponibles client" />
+    <MESSAGE value="Implémentation emprunt livre client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implémentation emprunt livre client" />
+  </component>
+</project>

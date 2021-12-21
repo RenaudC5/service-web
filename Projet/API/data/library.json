@@ -81,22 +81,16 @@
     ],
     "loans": [
         {
-            "userId": "2b793500-dabc-11e7-96d9-3f4994e35ed5",
+            "loanDate": "2021/11/16",
             "copyId": "3e35b560-dac1-11e7-92c1-a1c74e59ace4",
-            "loanDate": "2017/12/07",
-            "id": "33d16140-dac2-11e7-a2f4-494b3ae468c5"
-        },
-        {
-            "loanDate": "2021-12-16T09:54:31.504Z",
-            "copyId": "da75401d-8025-4aab-80f4-810127193c2e",
-            "userId": "1b793500-dabc-11e7-96d9-3f4994e35ed5",
-            "id": "02854002-feb9-435d-8cbe-61246a4e4e3c"
+            "userId": "8a2472ca-b334-4fff-b2fd-84dfe937764d",
+            "id": "c83b931a-1774-4f84-8c5d-bb6bae74bbf7"
         },
         {
             "loanDate": "2021/11/16",
-            "copyId": "cbfca3b0-dabf-11e7-b993-41ea43809602",
+            "copyId": "8b28dfe5-f520-4436-aeb6-fb4fafbbd367",
             "userId": "8a2472ca-b334-4fff-b2fd-84dfe937764d",
-            "id": "fbb71d8a-9b7a-4dd7-ae76-49a119b7be72"
+            "id": "e7a352f6-0b30-4058-8e05-8c64d97f988f"
         }
     ]
 }

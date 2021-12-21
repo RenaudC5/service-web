@@ -12,8 +12,8 @@ export class UserService extends BaseHttpService {
         .get<User[]>(`${this.baseUrl}/users`);
   }
 
-  // public get(bookId: string): Observable<Book> {
-  //   return this.http
-  //       .get<Book>(`${this.baseUrl}/books/${bookId}`);
-  // }
+  public get(userId: string): Observable<User> {
+    return this.http
+        .get<User>(`${this.baseUrl}/users/${userId}`);
+  }
 }

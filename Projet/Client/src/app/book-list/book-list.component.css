@@ -1,0 +1,4 @@
+.btn-outline-primary.disabled {
+    color: grey;
+    border-color: grey;
+}

@@ -25,6 +25,9 @@
           class="card-text"
           *ngIf="book.publicationDate"
         >{{book.publicationDate}}</p>
+        <p
+                class="card-text"
+        >Nombre d'exemplaires disponibles : {{book.copies.length}}</p>
         <a
           [routerLink]="'/books/' + book.id + '/loan'"
           class="btn btn-outline-primary"
