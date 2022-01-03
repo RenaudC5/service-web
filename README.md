@@ -1,3 +1,7 @@
+Soline PONSARD et Colin RENAUD - INFO5
+
+Lien git : https://github.com/RenaudC5/service-web
+
 # Services Web
 
 ## Support de cours sur les services Web
